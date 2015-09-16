@@ -1,10 +1,10 @@
 
+
 h1 {
     color: black;
     font-weight: normal;
     text-align: left;
-;
-
+    text-decoration: underline;
 }
 h2 {
     align-content: center;
@@ -99,7 +99,15 @@ IMG.pildid {
     display: table-cell;
     vertical-align: bottom;
     padding-left: 20px;
+    line-height: 90%;
+    white-space: nowrap;
+    text-shadow: 1px 1px #ff0000;
+    font-family: "Times New Roman", Georgia, Serif;
+    font-size: medium;
+    font-weight: bold;
+
 }
+
 
 .jalus {
     color: grey;
@@ -116,4 +124,5 @@ table {
     border-collapse: initial;
     border: 6px;
     border-radius: 3px;
+
 }
