@@ -25,6 +25,9 @@ body {
     border-radius: 3px;
     box-shadow: 1px 1px 5px #c8ccc1;
     height: 650px;
+    max-width: 900px;
+    min-width: 500px
+
 }
 
 #paisecontainer {
@@ -105,7 +108,7 @@ IMG.pildid {
     font-family: "Times New Roman", Georgia, Serif;
     font-size: medium;
     font-weight: bold;
-
+    cursor: wait;
 }
 
 
@@ -118,6 +121,8 @@ IMG.pildid {
     background: #ffffff;
     border-radius: 3px;
     box-shadow: 1px 1px 5px #c8ccc1;
+    max-width: 900px;
+    min-width: 500px
 
 }
 table {
